@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/performance.dir/performance.o -o performance   -L/hdd1/work/paho.mqtt.cpp/build/src  -Wl,-rpath,/hdd1/work/paho.mqtt.cpp/build/src: -lpaho-mqttpp3 -lpaho-mqtt3as 

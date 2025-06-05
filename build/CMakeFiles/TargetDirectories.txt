@@ -1,8 +1,0 @@
-/hdd1/work/paho.mqtt.cpp/examples/atom/build/CMakeFiles/subscriber.dir
-/hdd1/work/paho.mqtt.cpp/examples/atom/build/CMakeFiles/performance.dir
-/hdd1/work/paho.mqtt.cpp/examples/atom/build/CMakeFiles/edit_cache.dir
-/hdd1/work/paho.mqtt.cpp/examples/atom/build/CMakeFiles/rebuild_cache.dir
-/hdd1/work/paho.mqtt.cpp/examples/atom/build/CMakeFiles/list_install_components.dir
-/hdd1/work/paho.mqtt.cpp/examples/atom/build/CMakeFiles/install.dir
-/hdd1/work/paho.mqtt.cpp/examples/atom/build/CMakeFiles/install/local.dir
-/hdd1/work/paho.mqtt.cpp/examples/atom/build/CMakeFiles/install/strip.dir
